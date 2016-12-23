@@ -15,7 +15,7 @@ To try PRISM:
 
 The following binaries of IBIS Neuronav should be used with example scenes provided on this page
 
-For macOS (10.8 or newer):
+For macOS (10.10 or newer):
 
 1. Download the [dmg](https://github.com/IbisNeuronav/PRISMDatabase/releases/download/v1.0/ibis-3.0.0-Dev-OSX-10.10.dmg) file and open it.
 2. [optional]Copy ibis.app to Application folder.
