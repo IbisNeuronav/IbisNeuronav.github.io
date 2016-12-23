@@ -15,12 +15,14 @@ To try PRISM:
 
 The following binaries of IBIS Neuronav should be used with example scenes provided on this page
 
-For macOS (10.8 or newer): 
+For macOS (10.8 or newer):
+
 1. Download the [dmg](https://github.com/IbisNeuronav/PRISMDatabase/releases/download/v1.0/ibis-3.0.0-Dev-OSX-10.10.dmg) file and open it.
 2. [optional]Copy ibis.app to Application folder.
 3. double-click ibis.app
 
 For Linux (Ubuntu 14.04):
+
 1. Download the [.tar.gz](https://github.com/IbisNeuronav/PRISMDatabase/releases/download/v1.0/ibis-3.0.0-Dev-Ubunu-14.04-x86_64.tar.gz) package.
 2. Extract to the desired folder.
 3. On the command line, cd to extracted folder and run ./IbisView
