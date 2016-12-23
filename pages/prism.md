@@ -6,6 +6,7 @@ permalink: /prism
 The Programmable Ray Integration Shading Model, or PRISM is a GPU volume ray casting module implemented as a VTK class and embeded in the Ibis Neuronav platform. Its unique feature is the ability for users to replace key parts of the ray integration algorithm with custom GLSL code, enabling the implementation of new volume rendering effects with no more than a few lines of code.
 
 To try PRISM:
+
 1. Download IBIS Neuronav
 2. Download example IBIS scenes
 3. Open scenes in IBIS
