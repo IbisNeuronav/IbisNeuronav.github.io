@@ -19,7 +19,7 @@ For macOS (10.8 or newer):
 3. double-click ibis.app
 
 For Linux (Ubuntu 14.04):
-1. Download the .tar.gz package.
+1. Download the [.tar.gz](https://github.com/IbisNeuronav/PRISMDatabase/releases/download/v1.0/ibis-3.0.0-Dev-Ubunu-14.04-x86_64.tar.gz) package.
 2. Extract to the desired folder.
 3. On the command line, cd to extracted folder and run ./IbisView
 
